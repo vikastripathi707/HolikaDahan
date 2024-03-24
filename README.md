@@ -1,16 +1,16 @@
 # Happy Holika Dahan
 
-This repository contains the source code for a festive webpage created to celebrate the joyous occasion of Diwali using HTML and CSS.
+This repository contains the source code for a festive webpage created to celebrate the joyous occasion of Holika Dahan using HTML and CSS.
 
 ## Description
 
-Diwali, also known as the Festival of Lights, is a significant Hindu festival celebrated with great enthusiasm across the world. To capture the essence of this auspicious occasion, this webpage has been designed with vibrant colors, traditional motifs, and heartwarming greetings.
+Holika Dahan, also known as the Festival of Colours, is a significant Hindu festival celebrated with great enthusiasm across the world."May the flames of Holika Dahan burn away all obstacles and fill your life with joy, prosperity, and positivity. Wishing you and your family a Happy Holika Dahan! 🔥🌺 #HolikaDahan #PositiveVibes #FestivalSeason"
 
 ## Features
 
-- Vibrant and visually appealing design
-- Traditional Diwali motifs and symbols
-- Heartfelt Diwali greetings
+- Vibrant , Colorful and visually appealing design
+- Traditional Holi motifs and symbols
+- Heartfelt Holi greetings
 - Responsive layout for optimal viewing on all devices
 
 ## Usage
